@@ -40,6 +40,8 @@ Here are the documents created during the project:
 - **Cypress**: For end-to-end automation testing.  
 - **Page Object Model**: For organized and reusable code structure.
 - **JavaScript**: Primary Language for Cypress
+- **Chai Assertions**: A behavior-driven testing library for making assertions in Cypress tests.
+- **Mocha**: A test framework used to structure tests and run them within Cypress.
 - **Google Docs & Sheets**: For documentation and reporting.  
 - **Mind Mapping Tools**: For strategic visualization of test plans and cases.  
 
@@ -55,14 +57,15 @@ Here are the documents created during the project:
 
 ## 👨‍💻 About This Project  
 
-This project demonstrates the effectiveness of automation testing for a complex e-commerce platform. By identifying bugs, enhancing user flows, and optimizing performance, it highlights the importance of structured testing methodologies.  
+This project demonstrates the effectiveness of automation testing for a complex e-commerce platform. By identifying bugs, enhancing user flows, and optimizing performance, it highlights the importance of structured testing methodologies.
 
 ---
 
 ## 📬 Contact  
 
 For queries or feedback, feel free to reach out:  
-📧 **Email**: rk1441933@gmail.com  
+📧 **Email**: rk1441933@gmail.com <br>
+  **LinkedIn**: [rajneeshkumar15](https://www.linkedin.com/in/rajneeshkumar15/)
 
 ---
 
